@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
 |max      | number     | 100           | Upper bound of circular slider    |
 |thumbWidth|number| 7 |thumbwidth of circular slider|
 |thumbColor|string|"black"|thumb color of circular slider|
-|trackWidth|number| 15 | Width of circular track|
+|trackWidth|number| 10 | Width of circular track|
 |trackColor|string| "black"| track color of circular slider |
 |steps| number | 1 | Steps of value taken by slider |
 |size | number | 300 | Size of circular slider component|
