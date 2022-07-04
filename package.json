@@ -1,0 +1,30 @@
+{
+    "name": "react-native-rounded-slider",
+    "version": "0.0.3",
+    "description": "Customisable circular slider component",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error no text specification\" && exit 1"
+    },
+    "keywords": [
+        "react-native",
+        "react native",
+        "circular slider",
+        "rounded slider",
+        "customisable slider",
+        "android",
+        "ios"
+    ],
+    "author": "Shivam Akhouri <shivamakhouri1142@gmail.com>",
+    "peerDependencies": {
+        "react-native": "*",
+        "react": "*"
+    },
+    "dependencies": {
+        "react-native-svg": "^12.1.1",
+        "react-native-web": "^0.17.1"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.12.9"
+    }
+}
