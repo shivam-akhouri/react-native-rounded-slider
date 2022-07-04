@@ -11,6 +11,10 @@ npm:
 yarn:
 `yarn add react-native-rounded-slider`
 
+## Prototype
+
+https://user-images.githubusercontent.com/72240154/177091403-c1bf3376-f390-4617-bd1c-3589944f8e7a.mp4
+
 ## Example:
 
 ```javascript
@@ -62,3 +66,4 @@ const styles = StyleSheet.create({
 |size | number | 300 | Size of circular slider component|
 |onChange| function | ()=>{} | Operation to perform on value change in slider|
 |element | React Component| <></> | React component to show on middle of slider |
+
