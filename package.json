@@ -1,6 +1,6 @@
 {
     "name": "react-native-rounded-slider",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Customisable circular slider component",
     "main": "index.js",
     "scripts": {
